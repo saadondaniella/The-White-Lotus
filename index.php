@@ -5,7 +5,7 @@ require __DIR__ . '/src/header.php';
 ?>
 
 <main>
-    <p>Welcome to The White Lotus.</p>
+    <!-- huvudinnehåll -->
 </main>
 
 </body>
