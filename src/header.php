@@ -67,15 +67,17 @@ declare(strict_types=1);
             <h1 class="hero-title">WELCOME TO COZEA ISLAND</h1>
 
             <p class="hero-text">
-                An island of beauty, secrets, and unexpected turns — where paradise reveals
+                Home to the exclusive resort The White Lotus. <br>An island of beauty, secrets, and unexpected turns — where paradise reveals
                 more than you came for.<br />
                 Book, if you dare.
             </p>
+            <a class="room-button hero-cta" href="/booking.php">
+                CHECK AVAILABLE ROOMS
+            </a>
         </div>
-
         <div class="hero-image">
             <img
-                src="/public/pictures/island-hero.jpg"
+                src="/public/pictures/island-hero.png"
                 alt="Cozea Island" />
         </div>
     </section>
